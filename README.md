@@ -5,15 +5,15 @@
 
 # Skills: 
 
-** 🔸 HTML 🔸**
+**🔸 HTML 🔸**
 
-** 🔷 CSS 🔷**
+**🔷 CSS 🔷**
 
-** 🟡 JS 🟡**
+**🟡 JS 🟡**
 
-** 🔷 SwiftUI 🔷**
+**🔷 SwiftUI 🔷**
 
-** 🔸 UIKit 🔸**
+**🔸 UIKit 🔸**
 
 # More about me:
 
