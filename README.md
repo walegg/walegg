@@ -4,10 +4,15 @@
 ![walegg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=walegg&theme=gruvbox&hide_border=true)
 
 # Skills: 
+
 **- 🔸 HTML 🔸**
+
 **- 🔷 CSS 🔷**
+
 **- 🟡 JS 🟡**
+
 **- 🔷 SwiftUI 🔷**
+
 **- 🔸 UIKit 🔸**
 
 I'm from France 🇫🇷 and I started development at a young age.
