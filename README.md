@@ -5,15 +5,17 @@
 
 # Skills: 
 
-**- 🔸 HTML 🔸**
+** 🔸 HTML 🔸**
 
-**- 🔷 CSS 🔷**
+** 🔷 CSS 🔷**
 
-**- 🟡 JS 🟡**
+** 🟡 JS 🟡**
 
-**- 🔷 SwiftUI 🔷**
+** 🔷 SwiftUI 🔷**
 
-**- 🔸 UIKit 🔸**
+** 🔸 UIKit 🔸**
+
+# More about me:
 
 I'm from France 🇫🇷 and I started development at a young age.
 
