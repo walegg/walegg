@@ -9,11 +9,11 @@
 
 **🔷 CSS 🔷**
 
-**🟡 JS 🟡**
+**🟡 JavaScript 🟡**
 
-**🔷 SwiftUI 🔷**
+**🔷 ReactJS 🔷**
 
-**🔸 UIKit 🔸**
+**🔸 Full-Stack Developer 🔸**
 
 # More about me:
 
